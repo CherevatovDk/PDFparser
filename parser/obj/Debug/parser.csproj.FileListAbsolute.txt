@@ -1,0 +1,6 @@
+C:\Development\parser\parser\bin\Debug\parser.exe
+C:\Development\parser\parser\bin\Debug\parser.pdb
+C:\Development\parser\parser\obj\Debug\parser.csproj.AssemblyReference.cache
+C:\Development\parser\parser\obj\Debug\parser.csproj.CoreCompileInputs.cache
+C:\Development\parser\parser\obj\Debug\parser.exe
+C:\Development\parser\parser\obj\Debug\parser.pdb
